@@ -1,0 +1,56 @@
+<html><head>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><title>WVSCA - 2016 League Standings</title>
+
+</head>
+<body style="width: 800px;">
+<table style="text-align: left; width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<h2><big><big>WVSCA</big></big></h2>
+<h3><big>Helping kids succeed using chess!</big></h3>
+</td>
+<td><img style="width: 427px; height: 226px;" alt="WVSCA" src="/Header2.jpg"></td>
+</tr>
+</tbody>
+</table>
+<br>
+<table style="text-align: left; width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 16%;">
+<form method="LINK" action="/"><input value="Home" style="height: 45px; width: 100%;" type="submit"></form>
+</td>
+<td width="16%">
+<form method="LINK" action="/contacts"><input value="Contact" style="height: 45px; width: 100%;" type="submit"></form>
+</td>
+<td width="16%">
+<form method="LINK" action="/events"><input value="Events" style="height: 45px; width: 100%;" type="submit"></form>
+</td>
+<td width="16%">
+<form method="LINK" action="/faq"><input value="FAQ" style="height: 45px; width: 100%;" type="submit"></form>
+</td>
+<td width="16%">
+<form method="LINK" action="/links"><input value="Links" style="height: 45px; width: 100%;" type="submit"></form>
+</td>
+<td width="16%">
+<form method="LINK" action="/results"><input value="Results" style="height: 45px; width: 100%;" type="submit"></form>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<div style="text-align: center;">
+<h1>2016 League Standings</h1>
+</div>
+<center>
+</center>
+<ul>
+<li><a href="k-5ind.pdf">K-5 Individual</a></li>
+<li><a href="k-5team.pdf">K-5 Team</a></li>
+<li><a href="ms-hsind.pdf">MS-HS Individual</a></li>
+<li><a href="ms-hsteam.pdf">MS-HS Team</a></li>
+</ul>
+<br>
+<br>
+</body></html>
